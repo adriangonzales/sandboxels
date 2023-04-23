@@ -1,0 +1,6 @@
+node_modules
+public
+.gitignore
+.prettierignore
+.DS_Store
+.eslintignore
